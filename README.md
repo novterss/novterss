@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Currently specializing in HTML5, CSS3, and Git version control.<br>📚 Developing a solid foundation in JavaScript through hands-on practice.<br>⚡ Eager to secure a Front-end Developer Internship to contribute to real-world projects.<br>🧭 Equipped with a proactive mindset and ready to tackle complex challenges.<br>🧑‍💻 Prepared to assist the team with core front-end tasks and maintenance.
+💻 Currently specializing in HTML5, CSS3, and Git version control.<br>📚 Developing a solid foundation in JavaScript through hands-on practice.<br>⚡ Eager to secure a Front-end Developer Internship to contribute to real-world projects.<br>🧭 Equipped with a proactive mindset and ready to tackle complex challenges.<br>🧑‍💻 Prepared to assist the team with core front-end tasks and maintenance.<br> 🌐 This is my website: https://www.ezplaystoreth.xyz/.
 
 
 ## 🌐 Socials:
