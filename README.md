@@ -40,6 +40,7 @@ More on my **[portfolio](https://novterss.github.io)**.
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Frameworks and libraries**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -53,6 +54,16 @@ More on my **[portfolio](https://novterss.github.io)**.
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-7C3AED?style=flat-square)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
 ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
+![FullCalendar](https://img.shields.io/badge/FullCalendar-2C3E50?style=flat-square)
+![HLS.js](https://img.shields.io/badge/HLS.js-F2994A?style=flat-square)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square)
+![electron-builder](https://img.shields.io/badge/electron--builder-000000?style=flat-square&logo=electronbuilder&logoColor=white)
 
 **Tools and services**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -68,6 +79,12 @@ More on my **[portfolio](https://novterss.github.io)**.
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=flat-square)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![JWT & bcrypt](https://img.shields.io/badge/JWT%20%26%20bcrypt-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4F46E5?style=flat-square)
+![PWA & Web Push](https://img.shields.io/badge/PWA%20%26%20Web%20Push-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 
 **ORM and databases**
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
@@ -90,6 +107,27 @@ More on my **[portfolio](https://novterss.github.io)**.
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat-square)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square)
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square)
+
+**Automation and reverse engineering**
+![Puppeteer (Stealth)](https://img.shields.io/badge/Puppeteer%20%28Stealth%29-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![Cheerio](https://img.shields.io/badge/Cheerio-E88C1F?style=flat-square)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square)
+![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=flat-square&logo=aiohttp&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-EF6456?style=flat-square)
+![CapSolver](https://img.shields.io/badge/CapSolver-1F6FEB?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy & Pillow](https://img.shields.io/badge/NumPy%20%26%20Pillow-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**System analysis and design**
+![OOP & Design Patterns](https://img.shields.io/badge/OOP%20%26%20Design%20Patterns-ED8B00?style=flat-square)
+![UML](https://img.shields.io/badge/UML-1168BD?style=flat-square)
+![ER Diagram](https://img.shields.io/badge/ER%20Diagram-336791?style=flat-square)
+![Normalization (3NF)](https://img.shields.io/badge/Normalization%20%283NF%29-4169E1?style=flat-square)
+![DFD](https://img.shields.io/badge/DFD-0EA5E9?style=flat-square)
+![System Analysis](https://img.shields.io/badge/System%20Analysis-8B5CF6?style=flat-square)
+![SEO](https://img.shields.io/badge/SEO-16A34A?style=flat-square)
+![Payment Integration](https://img.shields.io/badge/Payment%20Integration-1E3A8A?style=flat-square)
 
 ## 📊 GitHub stats
 
