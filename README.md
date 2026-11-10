@@ -70,8 +70,11 @@ More on my **[portfolio](https://novterss.github.io)**.
 ## 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=novterss&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novterss&theme=tokyonight&layout=compact" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=novterss&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=novterss&theme=tokyonight" alt="Top languages" />
+</p>
+<p>
+  <img height="170" src="https://streak-stats.demolab.com/?user=novterss&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ## 📫 Contact
