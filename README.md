@@ -42,56 +42,55 @@ More on my **[portfolio](https://novterss.github.io)**.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Frameworks and libraries**
+**Frontend and UI**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![LINE API](https://img.shields.io/badge/LINE%20API-00C300?style=flat-square&logo=line&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-7C3AED?style=flat-square)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
-![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
 ![FullCalendar](https://img.shields.io/badge/FullCalendar-2C3E50?style=flat-square)
 ![HLS.js](https://img.shields.io/badge/HLS.js-F2994A?style=flat-square)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square)
-![electron-builder](https://img.shields.io/badge/electron--builder-000000?style=flat-square&logo=electronbuilder&logoColor=white)
 
-**Tools and services**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Remix IDE](https://img.shields.io/badge/Remix%20IDE-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-00E9A3?style=flat-square&logo=upstash&logoColor=black)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=flat-square)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+**Backend, desktop and Web3**
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-7C3AED?style=flat-square)
 ![JWT & bcrypt](https://img.shields.io/badge/JWT%20%26%20bcrypt-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-4F46E5?style=flat-square)
 ![PWA & Web Push](https://img.shields.io/badge/PWA%20%26%20Web%20Push-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![LINE API](https://img.shields.io/badge/LINE%20API-00C300?style=flat-square&logo=line&logoColor=white)
+![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![electron-builder](https://img.shields.io/badge/electron--builder-000000?style=flat-square&logo=electronbuilder&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square)
 
-**ORM and databases**
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Tools and services**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Remix IDE](https://img.shields.io/badge/Remix%20IDE-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=flat-square)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
-**Deployment and hosting**
+**Databases, cloud and hosting**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-00E9A3?style=flat-square&logo=upstash&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![VPS (Linux)](https://img.shields.io/badge/VPS%20%28Linux%29-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Contabo](https://img.shields.io/badge/Contabo-1E5AA8?style=flat-square)
@@ -101,23 +100,15 @@ More on my **[portfolio](https://novterss.github.io)**.
 ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=flat-square&logo=namecheap&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
-**Media and documents**
-![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=flat-square)
-![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=flat-square)
-![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat-square)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square)
-
-**Automation and reverse engineering**
+**Automation, testing and reverse engineering**
 ![Puppeteer (Stealth)](https://img.shields.io/badge/Puppeteer%20%28Stealth%29-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 ![Cheerio](https://img.shields.io/badge/Cheerio-E88C1F?style=flat-square)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square)
 ![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=flat-square&logo=aiohttp&logoColor=white)
 ![Frida](https://img.shields.io/badge/Frida-EF6456?style=flat-square)
 ![CapSolver](https://img.shields.io/badge/CapSolver-1F6FEB?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy & Pillow](https://img.shields.io/badge/NumPy%20%26%20Pillow-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **System analysis and design**
 ![OOP & Design Patterns](https://img.shields.io/badge/OOP%20%26%20Design%20Patterns-ED8B00?style=flat-square)
@@ -128,6 +119,13 @@ More on my **[portfolio](https://novterss.github.io)**.
 ![System Analysis](https://img.shields.io/badge/System%20Analysis-8B5CF6?style=flat-square)
 ![SEO](https://img.shields.io/badge/SEO-16A34A?style=flat-square)
 ![Payment Integration](https://img.shields.io/badge/Payment%20Integration-1E3A8A?style=flat-square)
+
+**Media and documents**
+![MS Word](https://img.shields.io/badge/MS%20Word-2B579A?style=flat-square)
+![MS PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=flat-square)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat-square)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square)
 
 ## 📊 GitHub stats
 
